@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\obj\Debug\MinimalAlementConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\obj\Debug\MinimalAlementConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\obj\Debug\MinimalAlementConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\bin\Debug\MinimalAlementConsoleApp.exe.config
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\bin\Debug\MinimalAlementConsoleApp.exe
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\bin\Debug\MinimalAlementConsoleApp.pdb
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\obj\Debug\MinimalAlementConsoleApp.exe
+C:\Users\Админ\source\repos\MinimalAlementConsoleApp\obj\Debug\MinimalAlementConsoleApp.pdb
