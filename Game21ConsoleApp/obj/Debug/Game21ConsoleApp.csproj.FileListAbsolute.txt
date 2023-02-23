@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\Game21ConsoleApp\bin\Debug\Game21ConsoleApp.exe.config
+C:\Users\Админ\source\repos\Game21ConsoleApp\bin\Debug\Game21ConsoleApp.exe
+C:\Users\Админ\source\repos\Game21ConsoleApp\bin\Debug\Game21ConsoleApp.pdb
+C:\Users\Админ\source\repos\Game21ConsoleApp\obj\Debug\Game21ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Game21ConsoleApp\obj\Debug\Game21ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\Game21ConsoleApp\obj\Debug\Game21ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Game21ConsoleApp\obj\Debug\Game21ConsoleApp.exe
+C:\Users\Админ\source\repos\Game21ConsoleApp\obj\Debug\Game21ConsoleApp.pdb
