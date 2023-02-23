@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\obj\Debug\PrilogenieConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\obj\Debug\PrilogenieConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\obj\Debug\PrilogenieConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\bin\Debug\PrilogenieConsoleApp.exe.config
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\bin\Debug\PrilogenieConsoleApp.exe
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\bin\Debug\PrilogenieConsoleApp.pdb
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\obj\Debug\PrilogenieConsoleApp.exe
+C:\Users\Админ\source\repos\PrilogenieConsoleApp\obj\Debug\PrilogenieConsoleApp.pdb
