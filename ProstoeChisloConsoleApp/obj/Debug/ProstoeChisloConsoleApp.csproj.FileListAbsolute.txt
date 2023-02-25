@@ -1,8 +1,0 @@
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\bin\Debug\ProstoeChisloConsoleApp.exe.config
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\bin\Debug\ProstoeChisloConsoleApp.exe
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\bin\Debug\ProstoeChisloConsoleApp.pdb
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\obj\Debug\ProstoeChisloConsoleApp.csproj.AssemblyReference.cache
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\obj\Debug\ProstoeChisloConsoleApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\obj\Debug\ProstoeChisloConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\obj\Debug\ProstoeChisloConsoleApp.exe
-C:\Users\Админ\source\repos\ProstoeChisloConsoleApp\obj\Debug\ProstoeChisloConsoleApp.pdb
