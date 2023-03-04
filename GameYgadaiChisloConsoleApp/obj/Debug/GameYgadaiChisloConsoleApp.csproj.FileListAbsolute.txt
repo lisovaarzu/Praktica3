@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\obj\Debug\GameYgadaiChisloConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\obj\Debug\GameYgadaiChisloConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\obj\Debug\GameYgadaiChisloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\bin\Debug\GameYgadaiChisloConsoleApp.exe.config
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\bin\Debug\GameYgadaiChisloConsoleApp.exe
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\bin\Debug\GameYgadaiChisloConsoleApp.pdb
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\obj\Debug\GameYgadaiChisloConsoleApp.exe
+C:\Users\Админ\source\repos\GameYgadaiChisloConsoleApp\obj\Debug\GameYgadaiChisloConsoleApp.pdb
